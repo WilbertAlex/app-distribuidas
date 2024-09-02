@@ -7,11 +7,11 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/josephmiguel1103/ProyectoMS_Catalogo.git
+          uri: https://github.com/WilbertAlex/app-distribuidas.git
           searchPaths: config-data
           #username:
           #password:
-          default-label: labDatos
+          default-label: main
   security:
     user:
       name: root
